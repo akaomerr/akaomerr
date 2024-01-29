@@ -1,4 +1,4 @@
-<h2 align="left">Hello World! I am Ömer 🌌</h2>
+<h1 align="left">Hello World! I am Ömer 🌌</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="left">My Repositories 🗃️</h4>
+<h3 align="left">My Repositories 🗃️</h3>
 
 ###
 
